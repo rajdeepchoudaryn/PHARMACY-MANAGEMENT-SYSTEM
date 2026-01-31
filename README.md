@@ -44,8 +44,7 @@ SQLite / MySQL (Database – based on implementation)
 ▶ How to Run
 
 Clone the repository
-
-git clone https://github.com/your-username/pharmacy-management-system.git
+https://github.com/rajdeepchoudaryn/PHARMACY-MANAGEMENT-SYSTEM/edit/main/README.md
 
 
 Install required libraries
