@@ -1,0 +1,53 @@
+Plant          Price     Stock
+------------------------------------------------------
+
+Asian Ginseng  260000    92   
+American Ginseng30000     100  
+Panax notoginseng300000    100  
+Himalayan ginseng70000     99   
+Panax vietnamensis60000     100  
+mountain ginseng65000     100  
+Spider orchid  20000     100  
+Cattleyas      5000      77   
+Boat Orchid    8650      100  
+Jewel orchids  456       100  
+Dancing Lady Orchids5630      88   
+Pansy Orchids  456       100  
+Moth Orchid    150000    99   
+Swamp orchids  5678      98   
+Lady slipper orchid780       99   
+Butterfly Orchid630       100  
+Old Lady Cactus 50000     99   
+Rainbow Hedgehog6000      100  
+Ric Rac Cactus 3000      98   
+Lithops        10000     98   
+Turks Cap Cactus 52000     99   
+Cereus Cactus  58643     98   
+Thanksgiving Cactus 565       100  
+Tom Thumb      2645      99   
+Mistletoe Cactus4555      94   
+Moon Cactus    1000      98   
+Laceleaf       586       94   
+Philodendron   786       98   
+Arum Lilies    4588      97   
+Alocasia       485       87   
+Monstera       1005      87   
+Pothos         5886      100  
+Zanzibar Gem   489       159  
+Caladium       1589      100  
+Peace lily     545       100  
+Elephants ears 589       87   
+Queen of the Night5899      100  
+ghost orchid   2156      100  
+Lady of the night5498      100  
+velvet-leaved  1005      100  
+mistletoe cacti158       100  
+vanilla orchids5498      100  
+Bulbophyllum   4445      100  
+air plants     1005      100  
+milkweeds      1005      100  
+Anthurium clarinervium588       100  
+Rosa Juliet    1008      100  
+lily           23        100  
+
+------------------------------------------------------
